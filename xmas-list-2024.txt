@@ -16,6 +16,10 @@ Bread Knife
 Ladle
 LTT Precision Screwdriver (& precision bit set if available, but it's been sold out)
 
+Books:
+Writing an Interpreter in Go by Thorsten Ball
+Writing a Complieer in Go by Thorsten Ball
+
 Watches:
 Watch travel case
 Relax De-Stress White Chronograph
